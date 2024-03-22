@@ -1,0 +1,22 @@
+PODS:
+  - SDWebImage (5.18.8):
+    - SDWebImage/Core (= 5.18.8)
+  - SDWebImage/Core (5.18.8)
+  - youtube-ios-player-helper (1.0.4)
+
+DEPENDENCIES:
+  - SDWebImage
+  - youtube-ios-player-helper
+
+SPEC REPOS:
+  trunk:
+    - SDWebImage
+    - youtube-ios-player-helper
+
+SPEC CHECKSUMS:
+  SDWebImage: a81bbb3ba4ea5f810f4069c68727cb118467a04a
+  youtube-ios-player-helper: e9b97535e816db3152179d84d999bc1807ecd689
+
+PODFILE CHECKSUM: 092464aab1cc422de660899f3376824ee5ffedc4
+
+COCOAPODS: 1.14.3
